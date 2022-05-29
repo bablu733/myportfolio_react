@@ -1,6 +1,6 @@
 import { Container } from "./styles";
-import githubIcon from "../../assets/github-icon.svg"
-import externalLinkIcon from "../../assets/external-link-icon.svg"
+import githubIcon from "../../assets/github-icon.svg";
+import externalLinkIcon from "../../assets/external-link-icon.svg";
 import ScrollAnimation from "react-animate-on-scroll";
 import profileImage from "../../assets/profile-image.jpg";
 import bablu1 from "../../assets/bablu1.jpg";
