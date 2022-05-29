@@ -1,0 +1,113 @@
+[33mcommit 90020fee1abe264b80efbd5de62ae003cd5880bc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: bablu733 <bablubhaidablu@gmail.com>
+Date:   Sun May 29 17:03:23 2022 +0530
+
+    this is my second commit
+
+[33mcommit 1c62c6710a2538abe0a5dc49ba49329a837d9435[m
+Author: bablu733 <bablubhaidablu@gmail.com>
+Date:   Sun May 29 14:02:25 2022 +0530
+
+[33mcommit 58818b0b242ee89961f6df63bb208e0d6b5db316[m
+Author: bablu733 <bablubhaidablu@gmail.com>
+Date:   Sun May 29 13:07:18 2022 +0530
+
+    first commit
+
+[33mcommit 4e385d8d11560f3f36d0c012e0efe4b9f95c9dd2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 31aa0bd 8474289
+Author: João Túlio <78704415+joaotuliojt@users.noreply.github.com>
+Date:   Sat Jan 1 12:14:08 2022 -0300
+
+    Merge pull request #3 from joaotuliojt/dev
+    
+    ReCaptcha
+
+[33mcommit 8474289be629229b86713e02d7546e7b9352db94[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: joaotuliojt <joaotuliosoares@hotmail.com>
+Date:   Sat Jan 1 12:12:21 2022 -0300
+
+    ReCaptcha no formulário e validação de email
+
+[33mcommit 31aa0bd22c119a915c51b2911d42a066180119df[m
+Merge: 62f4109 0f1cef1
+Author: João Túlio <78704415+joaotuliojt@users.noreply.github.com>
+Date:   Thu Dec 30 10:47:09 2021 -0300
+
+    Merge pull request #2 from FelipeDeveloperFullStack/main
+    
+    Ajustando apenas o nome que estava digitado errado
+
+[33mcommit 0f1cef1f7df199a2085091f0195e651ead4c62f2[m
+Author: Felipe Miguel dos Santos <felipe.msantos@tagbss.com>
+Date:   Tue Dec 28 13:43:03 2021 -0300
+
+    Ajustando apenas o nome que estava digitado errado
+    
+    Changes to be committed:
+    modified:   src/components/Form/Form.tsx
+
+[33mcommit 144d38aeef9e980712e5bfa23d8fc7fb472942b6[m
+Author: joaotuliojt <joaotuliosoares@hotmail.com>
+Date:   Tue Dec 28 09:34:41 2021 -0300
+
+    Mensagem de confirmação de envio de formulário
+
+[33mcommit 62f4109df00b6bc6a51533b4ccb05501a35fbb53[m
+Author: João Túlio <78704415+joaotuliojt@users.noreply.github.com>
+Date:   Tue Dec 28 08:51:04 2021 -0300
+
+    Update README.md
+
+[33mcommit 7e26be731bf7409b0cf51b5fa21ad56bbdf237c1[m
+Merge: 3535b00 f73864f
+Author: João Túlio <78704415+joaotuliojt@users.noreply.github.com>
+Date:   Tue Dec 28 08:48:18 2021 -0300
+
+    Merge pull request #1 from iTPr0/main
+    
+    Bug navbar fixed.
+
+[33mcommit f73864f6a359ea9e963fc1a6bbff2f40959438e9[m
+Author: iTPr0 <66981750+iTPr0@users.noreply.github.com>
+Date:   Mon Dec 27 22:26:17 2021 -0300
+
+    Problema resolvido
+    
+    Tirei um bug e estava arrumando isso para melhorar o CSS.
+
+[33mcommit 3535b00fd6b3d477b8b2c02900c97f43db16a889[m
+Author: João Túlio <78704415+joaotuliojt@users.noreply.github.com>
+Date:   Sat Dec 25 09:42:11 2021 -0300
+
+    Update About.tsx
+
+[33mcommit 5cc3c7a55f68f6d36bf9ed0e8425830d03808837[m
+Author: joaotuliojt <joaotuliosoares@hotmail.com>
+Date:   Fri Dec 24 12:09:42 2021 -0300
+
+    cor da navbar alterada, removido delay das animações dos cards, reduzido delay da animação do hero
+
+[33mcommit 45346ae823d5650f45043a0b1be7ad7ef8d6b9d8[m
+Author: joaotuliojt <joaotuliosoares@hotmail.com>
+Date:   Fri Dec 24 09:28:26 2021 -0300
+
+    Dark mode
+
+[33mcommit 3b92ba95687dc7b898912853c3b4b3cfd01090cd[m
+Author: joaotuliojt <joaotuliosoares@hotmail.com>
+Date:   Thu Dec 23 20:24:03 2021 -0300
+
+    ajustes na responsividade e meta description
+
+[33mcommit 9b78662919e9e234a5466f40683f60e6dab776c2[m
+Author: joaotuliojt <joaotuliosoares@hotmail.com>
+Date:   Thu Dec 23 19:25:43 2021 -0300
+
+    v1
+
+[33mcommit 9ff0707a4ebe0dec0eb07d6148d52c6437d4715f[m
+Author: joaotuliojt <joaotuliosoares@hotmail.com>
+Date:   Tue Dec 21 13:47:40 2021 -0300
+
+    Initialize project using Create React App
