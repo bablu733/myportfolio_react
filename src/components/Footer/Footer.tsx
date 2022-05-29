@@ -4,25 +4,25 @@ import reactIcon from '../../assets/react-icon.svg'
 import linkedinIcon from '../../assets/linkedin.png'
 import githubIcon from '../../assets/github.png'
 import instagramIcon from '../../assets/instagram.png'
-import discordIcon from '../../assets/discord.png'
+import facebookIcon from '../../assets/facebook.png'
 
 export function Footer() {
   return (
     <Container className="footer">
       <a href="/" className="logo">
-        <span>J</span>
-        <span>Tulio</span>
+        <span>Bablu</span>
+        <span>Kumar</span>
       </a>
       <div>
         <p>
-          Este site foi feito com <img src={reactIcon} alt="React" /> e muito
+        This site is very usefull portfolio <img src={reactIcon} alt="React" /> java developer.
           <span>❤️</span>
         </p>
       </div>
 
       <div className="social-media">
         <a
-          href="https://www.linkedin.com/in/jtsoares/"
+          href="https://www.linkedin.com/in/bablu-kumar-a33166221/"
           target="_blank"
           rel="noreferrer"
         >
@@ -30,7 +30,7 @@ export function Footer() {
         </a>
 
         <a
-          href="https://github.com/joaotuliojt"
+          href="https://github.com/bablu733"
           target="_blank"
           rel="noreferrer"
         >
@@ -38,7 +38,7 @@ export function Footer() {
         </a>
 
         <a
-          href="https://www.instagram.com/tulio_joaob/"
+          href="https://www.instagram.com/bablu_official073k/"
           target="_blank"
           rel="noreferrer"
         >
@@ -46,11 +46,11 @@ export function Footer() {
         </a>
 
         <a
-          href="https://discord.com/users/426120432991862784"
+          href="https://www.facebook.com/profile.php?id=100017761416303"
           target="_blank"
           rel="noreferrer"
         >
-          <img src={discordIcon} alt="Discord" />
+          <img src={facebookIcon} alt="facebook" />
         </a>
       </div>
     </Container>

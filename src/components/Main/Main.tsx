@@ -17,7 +17,6 @@ import typescriptIcon from "../../assets/typescript-icon.svg";
 import vscodeIcon from "../../assets/vscode-icon.svg";
 import vueIcon from "../../assets/vue-icon.svg";
 
-
 export function Main(){
   return(
 
@@ -252,6 +251,6 @@ export function Main(){
       <About></About>
       <Portfolio></Portfolio>
       <Contact></Contact>
-    </Container>
+      </Container>
   );
 }

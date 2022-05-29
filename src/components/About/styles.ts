@@ -20,6 +20,7 @@ export const Container = styled.section`
 
     img{
       width: 3.4rem;
+      
     }
   }
 
@@ -40,19 +41,20 @@ export const Container = styled.section`
     font-weight: 500;
   }
   
-  
-
   .about-image{
     text-align: center;
-   img{
-     margin-top: 2rem;
-     width: 100%;
-     filter: grayscale(1);
-     transition: filter 0.5s;
-     &:hover{
-       filter: grayscale(0);
-     }
-   }
+    img{
+      margin-top: 2rem;
+     padding: 2rem 1.8rem;
+    background-color: Deeppink;
+     border-radius: 6rem;
+      width: 50%;
+      padding: 1rem;
+      filter: grayscale(1);
+      transition: filter 0.2s;
+      &:hover{
+        filter: grayscale(0);
+
   }
 
   @media only screen and (max-width: 480px) {
